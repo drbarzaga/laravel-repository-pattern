@@ -22,5 +22,7 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": false,
-    "require": {}
+    "require": {
+        "php": ">=5.6"
+    }
 }
