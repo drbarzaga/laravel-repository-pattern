@@ -1,0 +1,27 @@
+{
+    "name": "softok2/repository",
+    "description": "Implementación del Patrón Repository.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dayan Pérez",
+            "email": "dayan.perez9012@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Softok2\\Repository\\": "src/Repository"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers":[
+                "Softok2\\Repository\\RepositoryServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "require": {}
+}
