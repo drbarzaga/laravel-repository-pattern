@@ -1,1 +1,1 @@
-### Implementación del Patrón Repository para Proyectos Laravel
+### Repository Pattern for Laravel Projects
