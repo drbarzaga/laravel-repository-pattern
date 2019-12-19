@@ -1,7 +1,6 @@
 {
     "name": "softok2/repository",
-    "description": "Implementación del Patrón Repository.",
-    "type": "project",
+    "description": "Repository Pattern implementation for Laravel Projects.",
     "license": "MIT",
     "authors": [
         {
