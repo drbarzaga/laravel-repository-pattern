@@ -56,6 +56,7 @@ The generated class extends from the ```Softok2\Repository\Repository``` class w
 
 ```php
 <?php
+
 interface RepositoryInterface
 {
     public function all($columns = ['*']);
