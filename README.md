@@ -1,5 +1,7 @@
 ### Repository Pattern for Laravel Projects
 
+A Simple Repository Pattern implementation for Laravel Projects.
+
 ### Install
 
 Require this package via composer using the fallowing command:
